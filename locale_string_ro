@@ -1,0 +1,2446 @@
+"MULTILANGUAGE_TEST_STRING";
+"Acesta este un test!";
+
+"COLLECT_ITEM_FROM_GROUND_OWNER";
+"Ai primit: ";
+
+"COLLECT_ITEM_FROM_GROUND_NOT_OWNER";
+"%s Nu ai primit nimic: ";
+
+"COLLECT_ITEM_FROM_GROUND_NOT_OWNER_2";
+"Comert de articole: %s, ";
+
+"YOU_HAVE_%s_GOLD_WAITING_WITHDRAW_SHOP";
+"Ai in Magazinul Offline %s Yang";
+
+"%s a fost sters din radul candidatilor monarh.";
+"%s a fost sters din radul candidatilor monarh.";
+
+" %s 군주로 입명 했습니다.";
+"%s a fost numit Regele!";
+
+" %s 군주르 제거 하였습니다..";
+"%s poate fi rege.";
+
+" %s 군주를 제거 할수 없습니다.";
+" %s nu poate fi rege.";
+
+" %s 는 군주 후보가 아닙니다.";
+" %s nu este ?registrat pentru alegerea unui rege.";
+
+" %s 는 군주로 입명할수 없습니다 .";
+"Jucatorul %s nu poate deveni leaderul breslei.";
+
+" (만료일 : %d년 %d월 %d일)";
+"(Data De Expirare: %d Ani %d utilizatori %d data) ";
+
+"%d 냥을 투자하셨습니다.";
+"%d Yang Donat.";
+
+"%d 냥을 획득하셨습니다.";
+"%d Yang a primit.";
+
+"%d 레벨이 되어야 다시 염색하실 수 있습니다.";
+"Putei utiliza utiliza aceasta frizura doar la nivelul %d .";
+
+"%d 종류 %d 마리 낚음";
+"%d Speciile %d pescuite.";
+
+"%d 초 후에 군주의 축복을 사용할 수 있습니다";
+"? %d secunde putei utiliza binecuv?tarea regelui din nou.";
+
+"%d 초간 쿨타임이 적용중입니다.";
+"S?se r?easc?timp se execut?de la %d ? c?eva secunde.";
+
+"%d 초후 목적지로 이동됩니다.";
+"? %d secunde va teleporta la destinaie.";
+
+"%d%% 확률로 관통 공격";
+"Care le putei utiliza doar fragmente de piatra.";
+
+"%d%% 확률로 적퇴치시 경험치 추가 상승";
+"%d%% ?nse de experien?obinute.";
+
+"%d%% 확률로 적퇴치시 돈 2배 드롭";
+"%d%% ?nsa de a l?a s?se c?erea adversarului.";
+
+"%d%% 확률로 적퇴치시 생명력 회복";
+"%d%% , care umple dvs. TP din nou.";
+
+"%d%% 확률로 적퇴치시 아이템 2배 드롭";
+"%d%% , obiecte care pot c?ea adversar.";
+
+"%d%% 확률로 적퇴치시 정신력 회복";
+"%d%% , c?dvs. MP re?c?care.";
+
+"%d%% 확률로 치명타 공격";
+"%d%% rezultate pe de foraj.";
+
+"%d%% 확률로 타격시 상대 전신력 소모";
+"Code021 ";
+
+"%d%% 확률로 피해시 정신력 회복";
+"%d%% ?nsa de a restabili MP";
+
+"%d분의 결제시간이 추가 되었습니다. (결제번호 %d)";
+"?ainte de %d minute a fost adaugat in timp pl?ite. (Numarul Facturii %d)";
+
+"%d의 경험치를 획득했습니다.";
+"%d experien?primit?";
+
+"%d초 남았습니다.";
+"Asteapt?%d secunde.";
+
+"%d초 후 게임이 셧다운 됩니다.";
+"Serverul se ?chide. Asteptai un moment.";
+
+"%s : %d 마리";
+"Juc?orul nu a fost g?it.";
+
+"%s killcount %d mobkillcount %d bosskillcount %d 성지 진입수 %d";
+"%s killcount %d mobkillcount %d bosskillcount %d Heiliges Land Bestrafungs Chance %d ";
+
+"%s SP소모: %d";
+"Te-ai consolidat cu o fora magic?";
+
+"%s 길드가 %s 길드에 선전포고를 하였습니다!";
+"Breasla %s a declarat r?boi.";
+
+"%s 길드가 %s 길드와의 전쟁에서 승리 했습니다.";
+"Breasla %s a c羞tigat r?boiul ?potriva breslei %s";
+
+"%s 길드가 %s 길드의 깃발을 빼앗았습니다!";
+"% S% s ?dep?tat de pavilion";
+
+"%s 길드와 %s 길드 사이의 전쟁이 무승부로 끝났습니다.";
+"R?boiul intre %s ? %s s-a terminat egal!";
+
+"%s 길드와 %s 길드 사이의 전쟁이 취소되었습니다.";
+"R?boiul dintre %s ? %s a fost anulat!";
+
+"%s 길드와 %s 길드가 잠시 후 전쟁을 시작합니다!";
+"R?boiul dintre %s ? %s a fost ?ceput!";
+
+"%s 길드와 %s 길드가 전쟁을 시작하였습니다!";
+"R?boiul dintre %s ? %s a ?ceput!";
+
+"%s 길드의 %s이 %d%% 증가했습니다!";
+"%s si %s este crescuta la %d%%.";
+
+"%s 길드의 %s이 정상으로 돌아왔습니다.";
+"%s ? %s Breslele au devenit normale.";
+
+"%s 길드의 깃발을 %s 님이 획득하였습니다.";
+"Breasla %s a capturat steagul lui %s";
+
+"%s 님과의 교환이 성사 되었습니다.";
+"Comerul cu %s a fost f?ut cu succes!";
+
+"%s 님에게 파티가입 신청을 했습니다.";
+"%s a trimis o cerere de grup.";
+
+"%s 님으로 부터 친구 등록을 거부 당했습니다.";
+"%s a respins cererea de prietenie";
+
+"%s 님은 접속되 있지 않습니다.";
+"%s nu este online.";
+
+"%s 님은 정상적으로 출마를 하였습니다.";
+"%s?─?감 ";
+
+"%s 님이 대련에서 승리하였습니다.";
+"%s a castigat";
+
+"%s 님이 승리하였습니다.";
+"%s a castigat runda";
+
+"%s 블럭! (%ld%%)";
+"%s blocat! (%ld%%)";
+
+"%s 아이템 을 획득하셨습니다";
+"%s obtine.";
+
+"%s 아이템이 필요합니다";
+"%s este necesar?";
+
+"%s 에게로 이동합니다";
+"Vei fi teleportat la %s.";
+
+"%s 에서 소켓 빠질때까지 남은 시간 %d";
+"Pietre ? arma ta face prea multe stric?iuni. %d";
+
+"%s 회피! (%ld%%)";
+"%s blocat! (%ld%%)";
+
+"%s: 존재하지 않는 길드 입니다.";
+"%s: Aceast?breasla nu exist?";
+
+"%s[%ld]가 공격 위치: %d %d";
+"%s[%ld] Poziie de atac: %d%d";
+
+"%s님과의 대결 시작!";
+"Lupta cu %s a ?ceput.";
+
+"%s님이 대결신청을 했습니다. 승낙하려면 대결동의를 하세요.";
+"%s te-a provocat la o lupt?";
+
+"%s를 구웠습니다.";
+"%s a fost ars.";
+
+"%s에 박혀있던 보석이 사라집니다.";
+"Finisajul de pe %s a disp?ut.";
+
+"%s에게 대결신청을 했습니다.";
+"Ai trimis o solicitare de lupt?juc?orului %s .";
+
+"%s의 %s이 %d%% 증가했습니다!";
+"%s  %s %d%%";
+
+"%s의 %s이 정상으로 돌아왔습니다.";
+"?nsa a dropului maxim a crescut %s %d%%";
+
+"(%s) 길드가 생성되었습니다. [임시]";
+"(%s) a fondat breasla.";
+
+". 너희가 성지의 수호자를 잡게 된다면 너희는 성지의 주인이 된다.[ENTER][ENTER] ";
+". Trebuie s??ving?tutorilor din ?ra Sf?t?atunci esti rege din ?ra Sf?t? [ENTER] [ENTER] ";
+
+"[%s군주] : %s  ";
+"[%s Rege] : %s  ";
+
+"[%s군주] : %s  보유금액 %lld ";
+"[%s Rege] : %s  din valoarea %lld ";
+
+"[TEST_ONLY]현재 국고 : %d ";
+"[TEST_ONLY] Current Treasury : %d ";
+
+"<길드> %d 스킬을 사용함 (%d, %d) to %lu";
+"<Breasla> %d utilizata (%d, %d) zu %lu";
+
+"<길드> %lu의 경험치를 투자하였습니다.";
+"<Breasla> Ai donat % experien?!";
+
+"<길드> %lu의 용신력을 회복하였습니다.";
+"<Breasla> %lu Energia Spiritului Dragon recuperat?";
+
+"<길드> %s 길드가 길드전을 거부하였습니다.";
+"<Breasla> %s a Refuzat declaraia de r?boi.";
+
+"<길드> [%s] 길드가 생성되었습니다.";
+"<Breasla> [%s] a fost creat?cu succes!";
+
+"<길드> 가지고 있는 돈이 부족합니다.";
+"<Breasla> Are suficient Yang.";
+
+"<길드> 경험치 투자에 실패하였습니다.";
+"<Breasla> Nu ai destul?experien?pentru a dona.";
+
+"<길드> 공지글을 작성할 권한이 없습니다.";
+"<Breasla> Posibil s?nu avei dreptul.";
+
+"<길드> 그러한 사람을 찾을 수 없습니다.";
+"<Breasl? Nu pot g?i persoana respectiv?";
+
+"<길드> 그런 길드가 없습니다.";
+"<Breasl? Aceast?breasl?nu exist?";
+
+"<길드> 길드 금고에선 길드장만 출금할 수 있습니다.";
+"<Breasl? Numai liderul breaslei retrage bani din breasl?";
+
+"<길드> 길드 생성에 실패하였습니다.";
+"<Breasl? Nu putei crea aceast?breasla! Te rog ?cearc?maine.";
+
+"<길드> 길드 스킬 레벨을 변경할 권한이 없습니다.";
+"<Breasl? Nu vi se permite s?schimbai nivelul de calificare a unei bresle.";
+
+"<길드> 길드 스킬은 길드전 중에만 사용할 수 있습니다.";
+"<Breasl? Putei utiliza Magiile Breslei numai ? timpul unui r?boi";
+
+"<길드> 길드 이름이 적합하지 않습니다.";
+"<Breasl? Numele de breasl?nu este bun sau exist?deja.";
+
+"<길드> 길드를 생성할 수 없습니다.";
+"<Breasl? Nu putei crea breasla.";
+
+"<길드> 길드를 해산한 지 %d일이 지나지 않은 사람은 길드에 초대할 수 없습니다.";
+"<Breasl? Trebuie s?a?eptai %d ore ?ainte de a invita acest juc?or ? breasl?";
+
+"<길드> 길드에 속해있지 않습니다.";
+"<Breasl? Ea/el nu face parte din breasl?";
+
+"<길드> 길드원 %s 님을 강제 탈퇴 시켰습니다.";
+"<Breasl? %s membrii sunt obligai s?se pensioneze.";
+
+"<길드> 길드원을 강제 탈퇴 시켰습니다.";
+"<Breasl? Ai concediat un juc?or.";
+
+"<길드> 길드원을 강제 탈퇴 시킬 권한이 없습니다.";
+"<Breasl? CODE#5.";
+
+"<길드> 길드원을 초대할 권한이 없습니다.";
+"<Breasl? Nu putei invita juc?ori s?se al?ure breaslei.";
+
+"<길드> 길드장으로 직위를 변경할 수 없습니다.";
+"<Breasl? Nu se poate face un membru.";
+
+"<길드> 길드장의 권한은 변경할 수 없습니다.";
+"<Breasl? Nu putei schimba gradul de membrii ale breslei.";
+
+"<길드> 길드장의 직위 이름은 변경할 수 없습니다.";
+"<Breasl? Nu putei schimba gradul.";
+
+"<길드> 길드장의 직위는 변경할 수 없습니다.";
+"<Breasl? Nu putei schimba gradul.";
+
+"<길드> 길드전에 대한 권한이 없습니다.";
+"<Breasl? Aceast?putere poate fi folosit?doar de breasl?";
+
+"<길드> 길드전을 하기 위해선 최소한 %d명이 있어야 합니다.";
+"<Breasl? Breasla advers?nu deine numarul minim de %d juc?ori.";
+
+"<길드> 길드전이 취소 되었습니다.";
+"<Breasl? R?boi a fost anulat.";
+
+"<길드> 길드전중에는 사냥에 따른 이익이 없습니다.";
+"<Breasl? ? timpul r?boiului nu exist?rata de experien?";
+
+
+"<길드> 다른 제국 사람을 길드에 초대할 수 없습니다.";
+"<Breasl? Nu putei invita juc?ori care fac parte dintr-un alt regat.";
+
+"<길드> 더이상 장수를 지정할 수 없습니다.";
+"<Breasl? Nu poi alege alt ?f la breasl?";
+
+"<길드> 돈이 부족합니다.";
+"<Breasl? Nu este suficient Yang.";
+
+"<길드> 래더 점수가 %d 점이 되었습니다";
+"<Breasl? Punctele breslei au crescut la %d";
+
+"<길드> 레더 점수가 모자라서 길드전을 할 수 없습니다.";
+"<Breasl? Liderul breslei este offline.";
+
+"<길드> 삭제할 수 없는 글입니다.";
+"<Breasl? Nu avei permisiunea de a ?erge mesajul.";
+
+"<길드> 상대가 %d 채널에 있습니다. (현재 채널 %d)";
+"<Server> Juc?orul se afl?? canalul %d (Canal %d) ";
+
+"<길드> 상대가 온라인 상태가 아닙니다.";
+"<Breasl? Nu este online.";
+
+"<길드> 상대방 길드가 이미 전쟁 중 입니다.";
+"<Breasl? Breasla se afl?deja ?tr-un r?boi.";
+
+"<길드> 상대방 길드의 길드원 수가 부족하여 길드전을 할 수 없습니다.";
+"<Breasl? Breasla advers?nu deine destui membrii pentru a participa la un r?boi.";
+
+"<길드> 상대방 길드의 레더 점수가 모자라서 길드전을 할 수 없습니다.";
+"<Breasl? Scorul de breasla este prea mic?s?declare un r?boi";
+
+"<길드> 상대방 길드의 전비가 부족하여 길드전을 할 수 없습니다.";
+"<Breasl? Breasla nu are fonduri suficiente";
+
+"<길드> 상대방이 같은 길드가 아닙니다.";
+"<Breasl? Un juc?or nu poate fi mai multe ori intr-o breasl?";
+
+"<길드> 상대방이 길드 초대 거부 상태입니다.";
+"<Breasl? Nu avei permisiunea de a invita juc?ori ? breasl?";
+
+"<길드> 상대방이 이미 다른 길드에 속해있습니다.";
+"<Breasl? Nu putei a?epta acest juc?or.";
+
+"<길드> 용신력 회복에 실패하였습니다.";
+"<Breasl? Nu a reseta punctele de Dragon Duhului.";
+
+"<길드> 용신력이 부족합니다. (%d, %d)";
+"<Breasl? Nu sunt suficiente puncte Spiritul Dragonului. (%d, %d)";
+
+"<길드> 이미 같은 이름의 길드가 있습니다.";
+"<Breasl? Dou?bresle nu pot avea acela? nume.";
+
+"<길드> 이미 다른 전쟁에 참전 중 입니다.";
+"<Breasl? Breasl?a intrat ? de r?boi.";
+
+"<길드> 이미 전쟁 중인 길드입니다.";
+"<Breasl? Breasla este deja ? r?boi.";
+
+"<길드> 이미 전쟁이 예약된 길드 입니다.";
+"<Breasl? Breasla este pe cale s?intre ? r?boi.";
+
+"<길드> 잘못된 금액입니다.";
+"<Breasl? Suma este gre?t?";
+
+"<길드> 장군을 지정할 권한이 없습니다.";
+"<Breasl? Nu avei dreptul de a alege un Lider.";
+
+"<길드> 적합하지 않은 직위 이름 입니다.";
+"<Breasl? Numele poate s?caractere conin?interzise.";
+
+"<길드> 전비가 부족하여 길드전을 할 수 없습니다.";
+"<Breasl? Incorect ?r de bresle.";
+
+"<길드> 제공하고자 하는 경험치가 남은 경험치보다 많습니다.";
+"<Breasl? Incorect ?r de bresle.";
+
+"<길드> 직위 권한을 변경할 권한이 없습니다.";
+"<Breasl? Nu putei modifica gradul.";
+
+"<길드> 직위 이름을 변경할 권한이 없습니다.";
+"<Breasl? Nu avei autorizaie s?schimbai numele de rang.";
+
+"<길드> 직위를 변경할 권한이 없습니다.";
+"<Breasl? Nu avei drepturile necesare.";
+
+"<길드> 최대 길드원 수를 초과했습니다.";
+"<Breasl? Breasla a atins num?ul maxim de membri.";
+
+"<길드> 쿨타임이 끝나지 않아 길드 스킬을 사용할 수 없습니다.";
+"<Breasl? Breasla a atins num?ul maxim de membri.";
+
+"<길드> 탈퇴한 후 %d일 이내에는 길드를 만들 수 없습니다.";
+"<Breasl? Nu poi crea o breasl?pentru ?c?o %d zi.";
+
+"<길드> 탈퇴한 후 %d일이 지나지 않은 사람은 길드에 초대할 수 없습니다.";
+"<Breasl? Aceast?persoan?trebuie s?a?epte o zi pentru a intra ? breasl?";
+
+"<길드> 해산한 후 %d일 이내에는 길드를 만들 수 없습니다.";
+"<Breasl? P??nu va trece %d zi nu vei fi capabil s?faci alt?breasl?";
+
+"<메신져> %s 님을 메신저에서 삭제하였습니다.";
+"<Breasl? %s a fost eliminat din lista de prieteni.";
+
+"<메신져> %s 님을 친구로 추가하였습니다.";
+"<Mesaj> %s a fost ad?gat la lista de prieteni.";
+
+"<메신져> 운영자는 메신져에 추가할 수 없습니다.";
+"<Mesaj> Nu putei s?ad?gai un admin ? lista de prieteni.";
+
+"<창고> 거리가 멀어서 창고를 열 수 없습니다.";
+"<Administratorul Depozitului> Parola este gre?t?";
+
+"<창고> 기존 비밀번호가 틀렸습니다.";
+"<Administratorul Depozitului> Parola adaugat?este gre?t? ";
+
+"<창고> 옮길 수 없는 위치입니다.";
+"<Administratorul Depozitului> Nu putei s?mutai acest element.";
+
+"<창고> 이 아이템은 넣을 수 없습니다.";
+"<Administratorul Depozitului> Acest obiect nu poate fi mutat. ";
+
+"<창고> 잘못된 암호를 입력하셨습니다.";
+"<Administratorul Depozitului> Parola dumneavoastr?este gre?t?";
+
+"<창고> 창고 비밀번호가 변경되었습니다.";
+"<Administratorul Depozitului> Parola dumneavoastr?a fost schimbat?cu succes.";
+
+"<창고> 창고가 이미 열려있습니다.";
+"<Administratorul Depozitului> Trebuie s?a?epi 10 secunde de la vizitarea ultimului magazin.";
+
+"<창고> 창고를 닫은지 10초 안에는 열 수 없습니다.";
+"Trebuie s?a?epi 10 secunde de la vizitarea ultimului magazin.";
+
+"<퀘스트> 이전에 같은 보상을 받은 적이 있어 다시 받지 않습니다.";
+"A?eapt?10 secunde ?ainte de a redeschide.";
+
+"<파티> %s 님이 파티 거부 상태입니다.";
+"%s nu este corecta";
+
+"<파티> %s님의 파티에 참가하셨습니다.";
+"<Grup? Te-ai alaturat grupului de %s";
+
+"<파티> %s님이 파티 초대를 거절하셨습니다.";
+"<Grup? Invitaia a fost respins?";
+
+"<파티> %s님이 파티에 참가하셨습니다.";
+"<Grup? Juc?orul %s sa al?urat grupei.";
+
+"<파티> -30 ~ +30 레벨 이내의 상대방만 초대할 수 있습니다.";
+"<Grup? Nu putei intra ? acest grup. Diferena de nivel este prea mare.";
+
+"<파티> 관전 모드에선 파티 초대를 할 수 없습니다.";
+"<Grup? Avei posibilitatea s?trimitei ca spectator o invitaie de grup.";
+
+"<파티> 다른 제국과 파티를 이룰 수 없습니다.";
+"<Grup? Nu poi face grup?cu cineva din alt regat.";
+
+"<파티> 다른 파티원을 탈퇴시킬 수 없습니다.";
+"<Grup? Nu te poti separa de ceilali membri ai grupului.";
+
+"<파티> 대상을 소환할 수 없습니다.";
+"<Grup? Scopul nu pot fi recuperat.";
+
+"<파티> 더 이상 파티원을 초대할 수 없습니다.";
+"<Grup? Nu mai poi invita alte persoane in grup.";
+
+"<파티> 던전 안에서는 파티 초대를 할 수 없습니다.";
+"<Grup? Nu poi face grup ?tr-o temni?";
+
+"<파티> 던전 안에서는 파티 초대에 응할 수 없습니다.";
+"<Grup? ?tr-o temni? grupul nu poate r?punde la solicit?i.";
+
+"<파티> 던전 안에서는 파티에서 나갈 수 없습니다.";
+"<Grup? Intr-o temni? grupul nu poate r?punde la solicit?i.";
+
+"<파티> 던전 안에서는 파티에서 추방할 수 없습니다.";
+"<Grup? ?tr-o temnita, nimeni nu poate fi exclus.";
+
+"<파티> 던젼내에서는 파티를 나갈 수 없습니다.";
+"<Grup? Incorect";
+
+"<파티> 던젼내에서는 파티원을 추방할 수 없습니다.";
+"<Grup? Nu este conectat.";
+
+"<파티> 리더만 변경할 수 있습니다.";
+"<Grup? Doar Liderul poate schimba.";
+
+"<파티> 상태를 변경하려는 사람이 파티원이 아닙니다.";
+"<Grup? Liderul nu poate fi schimbat.";
+
+"<파티> 서버 문제로 파티 관련 처리를 할 수 없습니다.";
+"<Grup? Aceast?comanda nu poate fi folosit?";
+
+"<파티> 소환하려는 대상을 찾을 수 없습니다.";
+"<Grup? Scopul nu a putut fi g?it.";
+
+"<파티> 이미 %s님은 파티에 속해 있습니다.";
+"<Grup? %s nu mai este ? grup.";
+
+"<파티> 파티 기술은 파티장만 사용할 수 있습니다.";
+"<Grup? CODE#6";
+
+"<파티> 파티 초대에 응할 수 없습니다.";
+"<Grup? Se afl?deja ? alt grup.";
+
+"<파티> 파티가 해산 되었습니다.";
+"<Grup? Grupa dumneavoastr?a fost desfinat?";
+
+"<파티> 파티내 최고 레벨 보다 30레벨이 낮아 초대할 수 없습니다.";
+"<Grup? Suntei cu 30 de nivele mai mare. Nu putei face grup? ";
+
+"<파티> 파티내 최저 레벨 보다 30레벨이 높아 초대할 수 없습니다.";
+"<Grup? Suntei cu 30 de nivele mai mari. Nu putei face grup? ";
+
+"<파티> 파티에서 나가셨습니다.";
+"<Grup? Ai fost invitat in grup?";
+
+"<파티> 파티에서 추방당하셨습니다.";
+"<Grup? Ai fost exclus din grup.";
+
+"<파티> 파티요청을 한 캐릭터를 찾을수 없습니다.";
+"<Grup? Juc?orul nu este online.";
+
+"<파티> 파티원을 초대할 수 있는 권한이 없습니다.";
+"<Grup? Nu ai dreptul de a invita ali membrii.";
+
+"<파티> 파티원을 현재 위치로 소환할 수 없습니다.";
+"<Grup? Poate nu este un membru al grupului pentru al teleporta la poziia sa actual?";
+
+"<파티> 파티의 인원제한이 초과하여 파티에 참가할 수 없습니다.";
+"<Grup? Limita de utilizator a fost ajuns?";
+
+"10초뒤 다음 판을 시작합니다.";
+"A?eapt?10 secunde p??ce lupta va ?cepe.";
+
+"10초뒤 대련이 시작됩니다.";
+"A?eapt?10 secunde p??ce lupta va ?cepe.1";
+
+"10초뒤 마을로 되돌아갑니다.";
+"A?eapt?10 secunde p??ce lupta va ?cepe.2";
+
+"10초뒤 마을로 이동합니다.";
+"A?eapt?10 secunde p??ce lupta va ?cepe.3";
+
+"10초뒤 판정하겠습니다.";
+"Avei 10 secunde pentru a alege r?punsul corect.";
+
+"10초후 자동으로 접속이 종료되며,";
+"A?eapt?10 secunde p??ce lupta va ?cepe.5";
+
+"1-50 사이의 수치를 선택해주세요";
+"V?rug? s?alegei un numar ?tre 10 ? 50.";
+
+"1분 이내에 아무도 접속하지 않으면 길드전이 자동 종료됩니다.";
+"Dac?niciun membru din breasla advers?nu particip? r?boiul se sf???e ?tr-un minut.";
+
+"20억 냥을 초과하여 상점을 열수가 없습니다";
+"Nu poi face acest lucru deoarece ai prea muli bani.";
+
+"20억냥이 초과하여 물품을 팔수 없습니다.";
+"Nu poi face acest lucru deoarece ai prea muli bani.";
+
+"5분 후에 정상적으로 접속하실수 있습니다.";
+"5 secunde p??la urm?oarea ?trebare!";
+
+"5초 뒤 틀리신 분들을 바깥으로 이동 시키겠습니다.";
+"Dup?5 secunde , toi participanii care au r?puns gre?t sunt eliminai.";
+
+"O 입니다";
+"O este r?punsul corect!";
+
+"OX 문제 스크립트 로딩 성공";
+"Evenimentul OX a ?ceput.";
+
+"OX 문제 스크립트 로딩 실패";
+"OX ! Scriptul a fost ?carcat cu succes !";
+
+"OX 상품을 지급하였습니다. ID: %d 수량: %d";
+"a primit %d";
+
+"OX 이벤트가 시작되었습니다.";
+"Nu va fi pentru prea mult timp.";
+
+"OX 이벤트가 이미 진행중입니다(flag: %d)";
+"OX Event-ul este deja pornit (flag: %d) ";
+
+"OX 이벤트를 마치겟습니다.";
+"OX este pornit!";
+
+"OX이벤트 맵을 먼저 닫아 주세요.(Flag: %d)";
+"U? OX dinainte de harta eveniment. (Flag: %d)";
+
+"OX이벤트가 닫히지 않았거나, 퀴즈 출제중입니다.(flag: %d)";
+"Evenimentul OX ?c?functional (flag: %d)";
+
+"OX이벤트가 열려 있지 않거나 문제 출제중입니다.(Flag: %d)";
+"Evenimentul OX nu a fost ?c?cat (flag: %d)";
+
+"OX이벤트를 강제 종료 시킵니다.";
+"Suntei forat sa p??ii acest eveniment.";
+
+"OX이벤트의 나머지 인원 기록을 실패했습니다.";
+"Evenimentul OX a e?at.";
+
+"OX이벤트의 나머지 인원을 기록하였습니다.";
+"Status Monitor OX";
+
+"X 입니다";
+"X este r?punsul corect!";
+
+"가만히 있을 때만 착용할 수 있습니다.";
+"Nu poi face a? ceva.";
+
+"각제국 진행 정보";
+"Nu poi purta acest element atunci c?d te plimbi.";
+
+"값을 잘못 입력하였습니다.";
+"Piatra a fost adaugat?cu succes.";
+
+"같은 개량서를 합칠 수는 없습니다.";
+"Nu pot fi adaugate de acelasi tip.";
+
+"같은 종류의 메틴석은 여러개 부착할 수 없습니다.";
+"Nu poi ad?ga mai multe pietre de acela?fel. ";
+
+"같은 종류의 유니크 아이템 두 개를 동시에 장착할 수 없습니다.";
+"Nu poi face a? ceva !";
+
+"같이 지을 수 없는 종류의 건물이 지어져 있습니다.";
+"Nu poi face a? ceva !";
+
+"개량된 후 아이템의 레벨 제한보다 레벨이 낮습니다.";
+"Nivelul t? este prea mic.";
+
+"개량을 하기 위한 돈이 부족합니다.";
+"Yang insuficient.";
+
+"개량을 하기 위한 재료가 부족합니다.";
+"Nu deii materialele necesare pentru a urca acest obiect.";
+
+"개인상점 사용후 %d초 이내에는 귀환부,귀환기억부를 사용할 수 없습니다.";
+"Trebuie s?astepti %d secunde";
+
+"거래 후 %d초 이내에 창고를 열수 없습니다.";
+"Trebuie s?a?epi %d secunde.";
+
+"거래 후 %d초 이내에는 귀환부,귀환기억부등을 사용할 수 없습니다.";
+"Trebuie s?a?epi %d secunde.";
+
+"거래 후 %d초 이내에는 다른지역으로 이동 할 수 없습니다.";
+"Te rog a?eapt?10 secunde.";
+
+"거래창,창고 등을 연 상태에서는 귀환부,귀환기억부 를 사용할수 없습니다.";
+"?c?nu te poi ridica.";
+
+"거래창,창고 등을 연 상태에서는 다른곳으로 이동,종료 할수 없습니다";
+"Ai deschis deja un magazin. Nu mai poi deschide altul.";
+
+"거래창,창고 등을 연 상태에서는 보따리,비단보따리를 사용할수 없습니다.";
+"Nu poi deschide un magazin ? timpul transformarii.";
+
+"거짓";
+"Incorect";
+
+"건물 비용 정보 이상으로 건설 작업에 실패했습니다.";
+"Construcia a e?at";
+
+"건물을 지을 수 없는 위치입니다.";
+"Nu poi construi peste locaia ta.";
+
+"건설 비용이 부족합니다.";
+"Costurile de producie sunt reduse.";
+
+
+"건설에 필요한 건물이 지어져 있지 않습니다.";
+"Cladirea nu a fost construit?";
+
+"게임을 종료 합니다. 잠시만 기다리세요.";
+"Jocul se ?chide ! Va rug? a?eptai c?eva momente.";
+
+"결재기간이 %d분 후 만료 됩니다.";
+"Ai fost pl?it %d";
+
+"결혼 상태가 아니면 결혼반지를 사용할 수 없습니다.";
+"Nu te poti c??ori dec? dac?ai inelul de logodna.";
+
+"결혼식이 종료됩니다.";
+"Ceremonia a luat sf??t! Cas?de piatr?";
+
+"결혼하지 않은 상태에서 예물을 착용할 수 없습니다.";
+"Putei folosi acest obiect doar ? prezena partenerului.";
+
+"경험치 %d%%";
+"Experiena %d%%";
+
+"경험치 %d%% 추가 획득 이벤트 중입니다.";
+"Anun: Rata de experien?a fost majorat?la %d%% ";
+
+"경험치가 부족하여 책을 읽을 수 없습니다.";
+"Nu ai destul?experien?pentru a citi aceast?carte!";
+
+"고기가 미끼만 빼먹고 잽싸게 도망칩니다.";
+"Ai pierdut momeala.";
+
+"고기가 잡혔습니다! (%s)";
+"Felicit?i. Ai prins un pe?e: (%s)";
+
+"고기가 흔적도 없이 사라집니다.";
+"Pe?ele a disp?ut ? ad?curi.";
+
+"곡괭이 수련도가 최대(%d)가 되었습니다.";
+"Undia ta a ajuns la nivelul maxim de puncte (% d)";
+
+"곡괭이가 최대 수련도에 도달하였습니다.";
+"a ajuns la scorul maxim.";
+
+"곡괭이를 들고 있지 않아서 캘 수 없습니다.";
+"Pentru a extrage mineralele ai nevoie de un t?n?op.";
+
+"곡괭이를 장착하세요.";
+"Nu poi face a? ceva f??un obiect special.";
+
+"곡괭이의 수련도가 증가하였습니다! (%d/%d)";
+"Punctele tale au crescut. (%d/%d)";
+
+"골드 드롭률 %d%% 추가 이벤트 중입니다.";
+"Anun: Rata de drop yang a fost majorat?la : %d%%";
+
+"공격력 +%d";
+"Daune fizice +%d ";
+
+"공격력 +%d%%";
+"Daune magice +%d%%";
+
+"공격속도 +%d";
+"Viteza atacului +%d ";
+
+"공부하기 싫어지네.";
+"Putei studia obiectul";
+
+"관전 모드로 길드전에 참가하셨습니다.";
+"? acest moment participi ca spectator la r?boiul unor bresle.";
+
+"관전 상태에서는 교환을 할 수 없습니다.";
+"? schimb nu poate efectua alte achiziii";
+
+"관통 추가 데미지 %d";
+"Daune suplimentare %d";
+
+"국고에 돈이 부족하거나 돈을 가져올수 없는 상황입니다";
+"Lipsa de bani te face s?ceri Yang.";
+
+"국고에 돈이 부족합니다. 현재 : %lu 필요금액 : %lu";
+"The money is not enough Current amount: : %lu Required : %lu ";
+
+"국고에 자금이 모자랍니다 국고 : %d ";
+"NPC are destui bani : %d";
+
+"군주 정보";
+"Informaii pentru RE";
+
+"군주가 내린 축복으로 모든 에너지가 가득 채워집니다";
+"Primi binecuv?tare de la Lordul Dragonilor";
+
+"군주만이 사용가능 한 기능입니다";
+"Caracteristic?disponibil?doar o singur?dat?";
+
+"군주만이 사용할수 있는 기능입니다";
+"Vei fi suveran numai atunci c?d vei avea puterea necesara.";
+
+"군주의 금강권 영향으로 이지역 %s 유저는 3분간 10 %% 의 방어력이  증가됩니다";
+"Obiectul aruncat va disp?ea in 10 secunde.[10 %% ";
+
+"군주의 사자후 영향으로 이지역 %s 유저는 3분간 10 %% 의 공격력이  증가됩니다";
+"Monarhul 咀i folose?e puterea ? 澱i d?%s 10 %% putere de atac.";
+
+"군주의 자격을 가지고 있지 않습니다";
+"Regele nu are calific?ile necesare.";
+
+"군주의 축복으로 이지역 %s 유저는 HP,SP가 모두 채워집니다.";
+"The monarch spoke his blessing to %s and fills all the HP and SP.";
+
+"군주의 축복을 사용하였습니다.";
+"Binecuv?tarea de RE folosit?";
+
+"귀환에 실패하였습니다.";
+"Nu putei reveni.";
+
+"그것으로 수련은 끝난 거야!";
+"Antrenament aproape complet.";
+
+"그래, 이 느낌이야. 체내에 기가 아주 충만해.";
+"Corpul meu este plin de oameni.";
+
+"그래, 천천히. 좀더 천천히, 그러나 막힘 없이 빠르게!";
+"Da! Foarte ?cet, dar f??oprire!";
+
+"그랜드 마스터 수련을 할 수 없는 스킬입니다.";
+"Acest antrenament nu poate fi finalizat.";
+
+"그런 명령어는 없습니다";
+"Aceast?comand?nu exist?";
+
+"그런 사람이 없습니다.";
+"Nu este online.";
+
+"그런 이름 또는 번호의 길드가 없습니다.";
+"Aceast?breasl?nu exist?";
+
+"근력 +%d";
+"For?+%d";
+
+"근력이 낮아 착용할 수 없습니다.";
+"Nu putei purta.";
+
+"금액이 부족합니다.";
+"Fonduri insuficiente.";
+
+"기억된 위치가 타제국에 속해 있어서 귀환할 수 없습니다.";
+"Nu vei fi adus ?apoi.";
+
+"기억해 둘 수 없는 위치 입니다.";
+"Am pierdut locaia. Nu pot face pergament aici.";
+
+"기절하지 않음 %d%%";
+"Swoon %d%%";
+
+"길드에 가입하지 않았습니다.";
+"Nici ?tr-o breasl?";
+
+"길드원";
+"Membru";
+
+"길드장";
+"Lider";
+
+"길드전에 참가한 상대방 길드원이 아무도 없습니다.";
+"Niciun membru din breasla advers?nu particip?la r?boi.";
+
+"길드전이 일찍 종료되어 무승부로 판정 되었습니다. (5분이 지나지 않음)";
+"Timpul a expirat! Nu sunt oponeni la r?boi.";
+
+"꿈속에서 어떻게요?";
+"Cum va fi?";
+
+"나무꾼를 통해 다음 레벨의 곡괭이로 업그레이드 할 수 있습니다.";
+"Prin nivel putei cre?e statusul de stare ? de calificare!";
+
+"나무에서 부터 신비한 빛이 나옵니다.";
+"O lumin?vine de la un copac mare.";
+
+"나보다 너무 높은 레벨의 몬스터로는 변신 할 수 없습니다.";
+"Nu v?putei transforma.";
+
+"나의 군주 정보";
+"Informaie";
+
+"나의 삼거리 진행정보";
+"Progresul t?";
+
+"낚시 중에 미끼를 갈아끼울 수 없습니다.";
+"Nu se poate schimba momeala!";
+
+"낚시대가 아닌 물건으로 낚시를 할 수 없습니다!";
+"Ai nevoie doar de o undi?";
+
+"낚시대가 최대 수련도에 도달하였습니다.";
+"Formarea tijei este finalizat?";
+
+"낚시대를 장착 하세요.";
+"Introducei momeala.";
+
+"낚시대에 %s를 미끼로 끼웁니다.";
+"Folose?i ca momeal? %s";
+
+"낚시대의 수련도가 증가하였습니다! (%d/%d)";
+"Punctele tale au crescut. (%d/%d)";
+
+"낚시이벤트월척붕어";
+"Evenimentul de pescuit a fost pornit.";
+
+"낚시이벤트잉어";
+"Event pesca_2 active";
+
+"남은 생명력 양이 모자라 사용할 수 없습니다.";
+"Nu ai destul?via?pentru a folosi un pergament.";
+
+"남은 스탯 포인트가 없습니다.";
+"Punctele de status au crescut.";
+
+"남은 스탯 포인트가 적습니다.";
+"Nu sunt suficiente puncte.";
+
+"남은 정신력 양이 모자라 사용할 수 없습니다.";
+"E?i prea aproape de persoana iubit?";
+
+"너무 가까이 있습니다.";
+"Suntei prea aproape.";
+
+"너무 멀리 있습니다";
+"Suntei prea aproape de int?";
+
+"넘어지지 않음 %d%%";
+"Posibilitatea de a nu c?ea %d%%";
+
+"녀석들은 이곳 성지에 있을 자격을 잃었다. 모두 성지에서 물러나거라~~[ENTER][ENTER] 10초 후에 모두 마을로 이동하게 됩니다. ";
+"E?i mort ? ?ra Sf?t?[ENTER][ENTER] Vei fi teleportat ? ora?? 10 secunde.";
+
+"느려지지 않음 %d%%";
+"?nsa de c?tig %d%%";
+
+"님의 말";
+" [Arm?ar]";
+
+"다 읽었다! 이제 비급에 적혀있는 대로 전신에 기를 돌리기만 하면,";
+"Nu putei adauga alte bonusuri.";
+
+"다른 거래중(창고,교환,상점)에는 개인상점을 사용할 수 없습니다.";
+"Are loc ? acest moment.";
+
+"다른 거래중일경우 개인상점을 열수가 없습니다.";
+"Nu putei deschide negoul.";
+
+"다른 거래창이 열려있을경우 거래를 할수 없습니다.";
+"Nu putei deschide alte magazine / negoul.";
+
+"다른 거래창이 열린상태에서는 상점거래를 할수 가 없습니다.";
+"Nu putei cumpara de la acest magazin.";
+
+"다른 컴퓨터에서 로그인 하여 접속을 종료 합니다.";
+"Cineva intr?pe contul tau. Imediat vei fi deconectat.";
+
+"다른거래창이 열린상태에서는 창고를 열수가 없습니다.";
+"Nu putei deschide un magazin cu un alt magazin deschis.";
+
+"다음 문제 준비해주세요.";
+"? 5 secunde se va pune urm?oarea ?trebare. ";
+
+"다이아몬드로 소켓을 추가해야합니다.";
+"Ai ad?gat diamantul cu succes. ";
+
+"닫기";
+"?chide ";
+
+"대련 강제 종료 성공";
+"Ai introdus piatra succes.";
+
+"대련 강제 종료 실패";
+"Piatra a e?at.";
+
+"대련 상대가 사라져 대련을 종료합니다.";
+"Pentru a ie?, trebuie s?v?deconectai.";
+
+"대련 시간 초과로 대련을 중단합니다.";
+"Timpul a expirat";
+
+"대련 시작에 문제가 있습니다.";
+"Exist?o problem?la pornire.";
+
+"대련 중에는 이용할 수 없는 물품입니다.";
+"Unele obiecte nu sunt disponibile.";
+
+"대련이 성공적으로 시작 되었습니다.";
+"Ai c羞tigat b??ia.";
+
+"대련이 시작되었습니다.";
+"B?alia a ?ceput.";
+
+"대련자 문제로 인하여 대련을 종료합니다.";
+"?chise din cauza unor probleme.";
+
+"대련자 문제로 인하여 대련을 중단합니다.";
+"a fost suspendat.";
+
+"대련자가 없습니다.";
+"Nu este";
+
+"대련장 문제로 인하여 대련을 종료합니다.";
+"?chis din nou din cauza unor probleme.";
+
+"대련장에서 사용하실 수 없습니다.";
+"Nu poate fi utilizat ? locuri de lupt?";
+
+"대박골드 드롭률 %d%% 추가 이벤트 중입니다.";
+"Rata dubl?de experien?a fost majorat?la %d%%";
+
+"더 높은 경지의 수련을 성공적으로 끝내셨습니다.";
+"Ai reu?t s?urcai aceast?competen?la un nivel mai mare.";
+
+"더 이상 OX이벤트 참가자를 받지 않습니다.";
+"Nu pot l?a ceilali participani ? concurs OX.";
+
+"더 이상 개량할 수 없습니다.";
+"Nu poate fi ?bun?沁it.";
+
+"더 이상 수련할 수 없습니다.";
+"Aceast?competen?este deja la nivelul maxim.";
+
+"더 이상 승마 수련서를 읽을 수 없습니다.";
+"Nu putei citi aceast?carte.";
+
+"더 이상 이 아이템을 이용하여 속성을 추가할 수 없습니다.";
+"Nu putei adauga alte bonusuri.";
+
+"더이상 이 아이템을 이용하여 속성을 추가할 수 없습니다.";
+"Nu putei adauga bonus.";
+
+"더이상 캐낼 수 없습니다.";
+"Nu exist?nici o band?";
+
+"던전 안에서는 %s%s 사용할 수 없습니다.";
+"Nu putei folosi %s%s";
+
+"독 저항 %d%%";
+"Rezistena la otrav?%d%%";
+
+"독공격 %d";
+"Rezisten?%d";
+
+"돈 %d 냥을 획득했습니다.";
+"Nu ai primit nimic.";
+
+"돈 드롭율 %.1f배";
+"Bani %.1volte";
+
+"돈이 부족하거나 아이템이 제자리에 없습니다.";
+"Ai bani puini bani.";
+
+"동물류 몬스터 타격치 +%d%%";
+"Mon?rii puternici +%d%%";
+
+"동일한 머리 스타일로는 교체할 수 없습니다.";
+"Nu se poate utiliza!";
+
+"두손검 방어 %d%%";
+"Ap?are %d%%";
+
+"둔갑 중에는 능력을 올릴 수 없습니다.";
+"Nu putei face a? ceva c? timp e?i transformat.";
+
+"둔갑 중에는 착용중인 장비를 변경할 수 없습니다.";
+"Nu putei schimba obiectele c? timp e?i transformat.";
+
+"둔갑서 수련을 마첬습니다. 신선에게 찾아가세요.";
+"Code01";
+
+"둔갑에 실패 하였습니다";
+"Este resetat peste tot.";
+
+"드디어 끝이 보이는 건가...  이 기술은 이해하기가 너무 힘들어..";
+"Sunt pregatit! Se pare c?tehnologia este cam grea pentru mine.";
+
+"떨어진 아이템은 3분 후 사라집니다.";
+"Obiectul aruncat va disp?ea ? 3 minute.";
+
+"뜨거운 무엇이 계속 용솟음치고 있어! 이건, 이것은!";
+"Abilitatea dvs. a fost urcat?la un alt nivel!";
+
+"레벨 20 이하는 핸드폰 번호를 등록할 수 없습니다.";
+"Sub nivelul 20 putei introduce num?ul dvs. de telefon.";
+
+"레벨 30이 되기 전에는 습득할 수 있을 것 같지 않습니다.";
+"Nu putei ?v沁a aceast?carte p??la nivel 30.";
+
+"레벨 50이 되기 전에는 습득할 수 있을 것 같지 않습니다.";
+"Nu putei ?v沁a aceast?carte p??la nivel 50.";
+
+"레벨이 낮아 착용할 수 없습니다.";
+"Nu putei purta.";
+
+"로그인 화면으로 돌아 갑니다. 잠시만 기다리세요.";
+"Pentru deconectare a?eapt?c?eva momente!";
+
+"룻렛을 돌립니다. 금액 %d";
+"A?eptai %d secunde.";
+
+"를";
+" ";
+
+"마법 공격력 +%d";
+"Putere de atac. +%d";
+
+"마법 방어력 +%d";
+"Putere magic? +%d";
+
+"마법 저항 %d%%";
+"Rezisten?magic? %d%%";
+
+"마음이 맑아지는군. 가슴을 짓누르던 무언가가 좀 가벼워진 느낌이야.";
+"Mintea ta a fost eliberat?de spiritul r?.";
+
+"많은 참여 부탁드립니다.";
+"Du-te la Uriel ? particip?la evenimentul OX.";
+
+"말 소환 아이템을 사용하세요.";
+"Ma chemat pentru a utiliza obiect.";
+
+"말 소환에 실패하였습니다.";
+"Nu ai chemat calul.";
+
+"말에게 %s%s 주었습니다.";
+"Calul t? trebuie hr?it %s%s";
+
+"말에게 사료를 주었습니다.";
+"Calul t? trebuie hr?it.";
+
+"말에게 선초를 주었습니다.";
+"Calul t? este ?tr-o condiie perfect?";
+
+"말에서 먼저 내려야 합니다.";
+"Nu putei face a? ceva.";
+
+"말을 돌려보냈습니다.";
+"Ai trimis calul ?apoi .";
+
+"말을 먼저 소환해주세요.";
+"Strig?i ?t? calul.";
+
+"말을 소유하고 있지 않습니다.";
+"Chemai calul ?ainte de asta.";
+
+"말을 탄 상태에서는 먹이를 줄 수 없습니다.";
+"Nu 澱i poi hr?i arm?arul ? timp ce c??e?i.";
+
+"말의 스테미너가 부족하여 말을 탈 수 없습니다.";
+"Calul dvs. este epuizat.";
+
+"말이 없습니다. 마굿간 경비병을 찾아가세요.";
+"Trebuie s?utilizai un obiect pentru a striga calul.";
+
+"말이 죽어있는 상태 입니다.";
+"Trebuie s?utilizai un obiect pentru a striga calul.";
+
+"맞으면 O, 틀리면 X로 이동해주세요";
+"Dac?este adev?at punei (O). Dac?este fals punei (X)";
+
+"머니  룰렛 시작.";
+"Ai schimbat bonusul.";
+
+"먼저 다이아몬드로 악세서리에 소켓을 추가해야합니다.";
+"Ai ad?gat un diamant.";
+
+"먼저 일어 나세요.";
+"Treze?e spiritul t?.";
+
+"먼저 재가비서를 이용하여 속성을 추가시켜 주세요.";
+"Nu putei folosi a? ceva.";
+
+"메틴2인증번호: %s";
+"Metin2? Autentificare: %s";
+
+"메틴석 부착에 성공하였습니다.";
+"Piatra a fost adaugat?cu succes.";
+
+"메틴석 부착에 실패하였습니다.";
+"Piatra nu a fost adaugat?";
+
+"명령어를 모두 입력하세요.";
+"Nu putei face acest lucru.";
+
+"명령어의 서브 커맨드가 잘못 되었습니다.";
+"Comand?subestimat?";
+
+"모닥불을 피울 수 없는 지점입니다.";
+"Foc durat?activ";
+
+"몬스터에게 강함 +%d%%";
+"?potriva mon?rilor. +%d%%";
+
+"몸 속이 뜨겁군. 하지만 아주 편안해. 이대로 기를 안정시키자.";
+"Foarte, foarte stabil. A? precum acest scriitor.";
+
+"몸에서 뭔가 힘이 터져 나오는 기분이야!";
+"Abilitate inv沁at?cu succes.";
+
+"무당공격에 %d%% 저항";
+"Rezistena atacurilor de la ?mani +%d%%";
+
+"무당에게 강함 +%d%%";
+"Medi +%d%%";
+
+"무사공격에 %d%% 저항";
+"Rezistent ?potriva r?boinicilor %d%%";
+
+"무사에게 강함 +%d%%";
+"Puternic ?potriva r?boinicilor +%d%%";
+
+"문자 메세지 전송에는 2000원이 필요 합니다.";
+"Nu poi striga dec? de la nivel 15. ";
+
+"문자 메세지 전송은 레벨 20부터 할 수 있습니다.";
+"Pentru a citi mesajele de la nivelul 20";
+
+"문자 메세지를 전송 했습니다.";
+"Mesajul a fost trimis. ";
+
+"문제 입니다.";
+"Aceasta este ?trebarea:";
+
+"문제를 출제하였습니다.";
+"Problem Performance";
+
+"문제를 출제하지 못했습니다.";
+"Putei face";
+
+"물 속에 모닥불을 피울 수 없습니다.";
+"Nu putei merge prin ap?";
+
+"물리타격시 블럭 확률 %d%%";
+"Abilitatea de a opri atacul fizic %d%%";
+
+"물약 사용시 %d%% 성능 증가";
+"Efectul licorii %d%%";
+
+"물약 제조에 실패했습니다.";
+"Potion creation failure";
+
+"물약 제한이 없습니다.";
+"Nu putei crea poiunea";
+
+"물약 조합을 위한 재료가 부족합니다.";
+"Trebuie alte materiale pentru a crea poiunea.";
+
+"물약을 %d 개 까지 사용 가능합니다.";
+"Nu putei folosi licori. ";
+
+"뭔가 몸 안에 힘이 생기는 기분인 걸.";
+"Te rog ?cearc?mai t?ziu.";
+
+"미끼를 끼고 던져 주세요.";
+"Nu ai pus momeala ? c?lig.";
+
+"민첩 +%d";
+"Viteza +%d";
+
+"민첩이 낮아 착용할 수 없습니다.";
+"Nu se poate utiliza.";
+
+"밀교류 타격치 +%d%%";
+"Rezistenta +%d%%";
+
+"바람 저항 %d%%";
+"Interval de rezisten?%d%%";
+
+"방어력 +%d";
+"Defensiva +%d";
+
+"방어력 +%d%%";
+"Defensiva +%d%%";
+
+"방울 방어 %d%%";
+"Arunca armura %d%%";
+
+"배 속에서 조개가 나왔습니다.";
+"Ai deschis un pe?e.";
+
+"배 속에서 지렁이가 나왔습니다.";
+"Cre?e viteza de mi?are.";
+
+"버릴 수 없는 아이템입니다.";
+"Nu poi arunca acest obiect.";
+
+"변경할 속성이 없습니다.";
+"Nu exist?nici un bonus pe care s?? schimbai.";
+
+"변신 상태에서는 말에 탈 수 없습니다.";
+"Nu putei c??i c?d e?i transformat.";
+
+"부착할 수 있는 슬롯이 없습니다.";
+"Nu poate fi plasat ? slot.";
+
+"부채 방어 %d%%";
+"Protecie %d%%";
+
+"불법 프로그램이 감지 되어 게임이 종료 됩니다.";
+"Program ilegal. Metin se ?chide.";
+
+"비속어나 은어가 포함된 상점 이름으로 상점을 열 수 없습니다.";
+"Nu v?putei deschide magazin ? asemenea condiii.";
+
+"빈 병이 모자릅니다.";
+"Nu v?putei deschide magazin dac?ai pus nimic la v?zare.";
+
+"빼낼 수 있는 메틴석이 없습니다.";
+"Magazinul nu poate fi deschis din aceast?locaie.";
+
+"사귀 타워 완료 보상은 한번까지 사용가능합니다.";
+"?-ai primit deja recompensa.";
+
+"사용 제한량을 초과하였습니다.";
+"Nu putei folosi licori ? arena luptelor. ";
+
+"사용법: warpto <character name>";
+"Folosire: du-te la <nume caracter> ";
+
+"삼거리 몹 리젠";
+"Regenerare PV monstru";
+
+"삼거리 전투 참가중에는 귀환부,귀환기억부를 사용할수 없습니다.";
+"Amintii-v?c?? timpul luptei nu putei utiliza poiuni speciale.";
+
+"삼거리 전투에서 %s 국가가 가장먼저 탈락을 하였습니다";
+"Intersection of battaglia %s. The state failed to conquer the land";
+
+"상대방 캐릭터가 접속을 종료하여 대련을 중지합니다.";
+"Nu putei veni.";
+
+"상대방 캐릭터의 문제로 인하여 대련을 종료합니다.";
+"Trebuie s?ie?i.";
+
+"상대방의 돈이 부족하거나 아이템이 제자리에 없습니다.";
+"Lipsa de bani te-a scos afar?";
+
+"상대방의 소지품에 빈 공간이 없습니다.";
+"Acest loc este liber.";
+
+"상대방의 총금액이 20억 냥을 초과하여 거래를 할수가 없습니다..";
+"2 miliarde este un chilipir pentru lingouri!";
+
+"상대방이 %d 채널에 있습니다. (현재 채널 %d)";
+"Aceasta persoan?este pe canalul (Canal curent %d)";
+
+"상대방이 교환 거부 상태입니다.";
+"Juc?orul a dezactivat opiunea.";
+
+"상대방이 다른 거래를 하고 있는 중입니다.";
+"Acest juc?or negociaz?deja.";
+
+"상대방이 다른 거래중이라 거래를 할수 없습니다.";
+"Acest juc?or negociaz?deja.";
+
+"상대방이 대련중입니다.";
+"Juc?orul este ? alt grup.";
+
+"상대방이 메신져 추가 거부 상태입니다.";
+"Others in the state, refused to SMS";
+
+"상대방이 온라인 상태가 아닙니다.";
+"Jum?atea ta nu este online.";
+
+"상대방이 있는 곳으로 워프할 수 없습니다.";
+"Nu poate fi trimis.";
+
+"상대방이 파티에 속해있지 않습니다.";
+"Aparine altcuiva.";
+
+"상자가 갑자기 폭발하였습니다! 생명력이 감소했습니다.";
+"Cutia a explodat. Viaa ta a fost redus?";
+
+"상자에서 %s 가 %d 개 나왔습니다.";
+"Deschiz?d lada ai primit: %s %d";
+
+"상자에서 %s 가 나왔습니다.";
+"Ai deschis un cuf? ? ai primit: %s";
+
+"상자에서 나온 녹색 연기를 들이마시자 독이 온몸으로 퍼집니다!";
+"Un fum verde a ie?t din lad?? i-a otr?it corpul.";
+
+"상자에서 나온 빨간 연기를 들이마시자 움직이는 속도가 느려졌습니다!";
+"Un fum a ie?t din lad?? te-a ?cetinit.";
+
+"상자에서 몬스터가 나타났습니다!";
+"Este ceva ? cuf?.";
+
+"상자에서 부터 신비한 빛이 나옵니다.";
+"O lumin?misterioas?iese din lad?";
+
+"상점과의 거리가 너무 멀어 물건을 살 수 없습니다.";
+"Suntei prea departe pentru a cumpara ceva!";
+
+"상점과의 거리가 너무 멀어 물건을 팔 수 없습니다.";
+"Suntei prea departe pentru a vinde ceva!";
+
+"상품을 받을 인벤토리가 부족합니다. 인벤토리를 비워주세요!";
+"Inventarul nu are suficiente locuri disponibile.";
+
+"생각만큼 읽기가 쉽지가 않군. 이해도 어렵고 내용도 난해해.";
+"Aceasta carte este prea grea de citit.";
+
+"생명력 회복 +%d";
+"Recuperare PV +%d";
+
+"서버에 치명적인 오류가 발생하여 자동으로 재부팅됩니다.";
+"Erroare, serverul se va restarta automat.";
+
+"선악치가 %d 증가하였습니다.";
+"Balana dintre R? ? Bine are un procentaj de %d";
+
+"선택 맵 정보 성지 %d 통로 %d %d %d";
+"Informaiile h?ii ? ?ra Sf?t?%d setate %d %d %d";
+
+"성별이 맞지않아 이 아이템을 열 수 없습니다.";
+"Doar persoanele de sex opus pot deschide elementul.";
+
+"성지에서 부활 기회를 모두 잃었습니다! 마을로 이동합니다!";
+"Pierderea ?nsei pentru ?viere ? ?ra Sf?t? ?apoi ? ora?";
+
+"성지의 마왕: 너희 ";
+"Diavolul din ?ra Sf?t? PM";
+
+"세금이 %d %로 설정되었습니다";
+"Este impozitat %d % ";
+
+"셧다운이 %d초 남았습니다.";
+"Serverul se opre?e ? %d secunde. V?rog s?v?deconectai!";
+
+"소유 돈이 20억냥을 넘어 거래를 핼수가 없습니다.";
+"Avei peste 2kkk ? inventar. Nu mai putei aduna Yang.";
+
+"소지금이 부족하여 이 아이템을 사용할 수 없습니다.";
+"Nu avei suficient Yang. Nu putei utiliza acest obiect.";
+
+"소지품에 빈 공간이 없습니다.";
+"Obiectul a fost divizat.";
+
+"소지하고 있는 아이템이 너무 많습니다.";
+"Avei prea multe obiecte ? inventar.";
+
+"소켓 추가에 실패하였습니다.";
+"Ad?garea diamantului a e?at.";
+
+"소켓이 성공적으로 추가되었습니다.";
+"Ad?garea diamantului a reu?t.";
+
+"소환할수 없는 몬스터 입니다. 소환가능한 몬스터는 홈페이지를 참조하세요";
+"Sohwanhalsu nu este un monstru.";
+
+"속성 추가에 성공하였습니다.";
+"Bonusul a fost ad?gat cu succes.";
+
+"속성 추가에 실패하였습니다.";
+"Bonusul a e?at la ad?gare.";
+
+"속성을 바꾼지 %d분 이내에는 다시 변경할 수 없습니다.(%d 분 남음)";
+"Bonusul nu poate fi schimbat %d minute.  (%d minute r?ase.)";
+
+"속성을 변경하였습니다.";
+"Ai schimbat bonusul cu succes.";
+
+"속성을 변경할 수 없는 아이템입니다.";
+"Nu putei ad?ga un bonus acestui obiect.";
+
+"수라공격에 %d%% 저항";
+"%d%% rezisten??potriva sura.";
+
+"수라에게 강함 +%d%%";
+"Fora sura +%d%%";
+
+"수련이 실패로 끝났습니다. 다시 도전해주시기 바랍니다.";
+"?cercarea ta de a cre?e aceast?competen?a e?at.";
+
+"수련할 수 없는 스킬입니다.";
+"Nu putei ?vaa aceast?competen?";
+
+"스킬 데미지 %d%%";
+"Necunoscut %d%%";
+
+"스킬 데미지 저항 %d%%";
+"Imunitate necunoscut?%d%%";
+
+"스킬 레벨을 내리는데 성공하였습니다.";
+"Ai resetat punctele de calificare cu succes.";
+
+"스킬 레벨을 내릴 수 없습니다.";
+"Punctele de status nu pot fi resetate.";
+
+"스턴 +%d";
+"Purpuriu +%d";
+
+"슬로우 +%d";
+"?cetinire +%d";
+
+"승마 수련서 이해에 실패하였습니다.";
+"Nu putei ?telege aceast?carte.";
+
+"승마 수련서를 읽어 승마 스킬 포인트를 얻었습니다.";
+"Ai ?teles cartea ...";
+
+"시체류 타격치 +%d%%";
+"CODE #3 +%d%%";
+
+"신수국";
+"CODE #2";
+
+"쓰러진 상태에서는 할 수 없습니다.";
+"Nu putei face a? ceva c?d e?i mort.";
+
+"아니 어떻게 된 게 종일 읽어도 머리에 안 들어오냐.";
+"Nu putei cii ? fiecare zi.";
+
+"아무것도 얻을 수 없었습니다.";
+"Nu ai primit nimic.";
+
+"아이템 개량후 %d초 이내에는 귀환부,귀환기억부를 사용할 수 없습니다.";
+"Trebuie s?a?eptai %d";
+
+"아이템 드롭률  %d%% 추가 이벤트 중입니다.";
+"Anun: Rata de drop obiecte a fost majorat?la : %d%%";
+
+"아이템 드롭율 %.1f배";
+"? prezent, rata de drop de %.1f m?ita.";
+
+"아이템 룰렛 시작.";
+"Ruleta a pornit.";
+
+"아이템 전달: %s 님에게 %s";
+"Tu ai %s  %s trimis.";
+
+"아이템 획득: %s";
+"Ai primit : %s";
+
+"아이템 획득: %s 님으로부터 %s";
+"Ai primit acest obiect de la juc?orul: %s numele obiectului %s.";
+
+"아이템로그가 syslog 에 남았습니다";
+"Fi?erul Item-Log este ? Syslog.";
+
+"아이템을 건네줄 수 없습니다.";
+"Nu putei face a? ceva !";
+
+"아직 마을에서 재시작 할 수 없습니다. (%d 초 남음)";
+"?c?nu te poi duce ? ora? Trebuie s?a?epi ?c?%d secunde.";
+
+"아직 승마 스킬을 수련할 수 있는 레벨이 아닙니다.";
+"Vei fi capabil de a ?bun?沁i echitatia dvs.";
+
+"아직 이 머리를 사용할 수 없는 레벨입니다.";
+"Rochia nu poate fi purtat?";
+
+"아직 재시작 할 수 없습니다.(%d초 남음)";
+"?c?nu te poi duce ? ora? Trebuie s?a?epi ?c?%d secunde.";
+
+"아직 재시작 할 수 없습니다.(%d초 남음 )";
+"?c?nu te poi ridica. Trebuie s?a?epi ?c?%d secunde.";
+
+"아직 재시작 할 수 없습니다. (%d초 남음)";
+"?c?nu te poi ridica. Trebuie s?a?epi ?c?%d secunde.";
+
+"악마류 타격치 +%d%%";
+"Ap?are demoni +%d%%";
+
+"안녕하세요. 메틴2 입니다.";
+"Eventul OX a fost pornit.";
+
+"액수가 20억 냥을 초과하여 거래를 할수가 없습니다..";
+"Putei deschide un magazin dac?avei c?tig de aproape 2kkk.";
+
+"양손검 방어 %d%%";
+"Aparare dou?m?ni %d%%";
+
+"어느정도 이 기술에 대해 이해가 되었지만 조금 부족한듯 한데..";
+"Am ?teles c? de c? ...";
+
+"어부를 통해 다음 레벨의 낚시대로 업그레이드 할 수 있습니다.";
+"Undia poate fi ?bun?沁it?acum. Du-te la pescar.";
+
+"얻은 포인트로는 승마 스킬의 레벨을 올릴 수 있습니다.";
+"Ai primit un punct de c??it.";
+
+"얼마 안 남았어! 조금만 더!";
+"Haide!";
+
+"여자만 할 수 있습니다.";
+"Acest obiect poate fi folosit doar de c?re femei.";
+
+"연계기는 더이상 수련할 수 없습니다.";
+"Nu pot folosi aceast?carte.";
+
+"열쇠가 맞지 않는 것 같다.";
+"Cheia pare sa nu fie cea bun?";
+
+"열쇠는 맞으나 아이템 주는 부분 구현이 안되었습니다.";
+"Cheia nu a fost gasit?";
+
+"열쇠로 여는 물건이 아닌것 같다.";
+"Aceasta nu este cheia potrivit?";
+
+"열쇠로 잠겨 있어서 열리지 않는것 같다. 열쇠를 구해보자.";
+"Pare s?fie blocat.";
+
+"열심히 하는 배움을 가지는 것만이 기술을 배울수 있는 유일한 길이다..";
+"Cu r?dare ? calm, am reu?t s??vat.";
+
+"열정의 가면을 착용시에만 할 수 있습니다.";
+"Nu deii masca emoiei. Ai nevoie de ea pentru a afi? emoiile.";
+
+"영석 감지기가 신비로운 빛을 내며 사라집니다.";
+"Vei g?i";
+
+"영석 감지기가 흔적도 없이 사라집니다.";
+"disp?ut cu cheie";
+
+"예복을 입은 상태에서 말을 탈 수 없습니다.";
+"Nu poi c??i cu o rochie de mireas?";
+
+"외치기는 레벨 %d 이상만 사용 가능 합니다.";
+"%d trebuie s?fie atins ?ainte de a apela!";
+
+"용신의 가호로 경험치가 떨어지지 않았습니다.";
+"Prin binecuv?tarea Zeului Dragon, nu ai pierdut experien?";
+
+"용신의 보호로 아이템이 떨어지지 않았습니다.";
+"Prin binecuv?tarea Zeului Dragon , nu ai pierdut obiecte.";
+
+"운영자 제제로 채팅이 금지 되었습니다.";
+"?apta i-a fost blocat?de un GM.";
+
+"웅귀족 타격치 +%d%%";
+"Potenial +%d%%";
+
+"원래 위치로 복귀";
+"Vei fi teleportat la ultima poziie.";
+
+"월병 또는 종자 를 사용하였습니다";
+"Toate obiectele au fost folosite.";
+
+"월병,종자 사용후 5초동안 사용할수 없습니다. ";
+"Timp de 5 minute obiectele nu pot fi utilizate.";
+
+"유료화 아이템은 개인상점에서 판매할 수 없습니다.";
+"Acest obiect nu poate fi v?dut ? magazin.";
+
+"을";
+"A";
+
+"을두지를 통하여 입장 가능합니다.";
+"Vezi ce poi, iar c羞tig?orul va primi un premiu mare.";
+
+"이 개량서로 개량할 수 없습니다.";
+"Putei ?bun?沁i ? continuare.";
+
+"이 개량서로 더 이상 개량할 수 없습니다.";
+"Eu nu sunt ? masura s??bun?沁esc ? continuare.";
+
+"이 곳에서 영석 감지기가 동작하지 않는것 같습니다.";
+"Aceast??bun?沁ire se pare ca nu funcioneaz?";
+
+"이 곳에선 이벤트용 감지기가 동작하지 않는것 같습니다.";
+"Aceast??bun?沁ire nu funcioneaz?cu evenimentele curente.";
+
+"이 메틴석은 무기에 부착할 수 없습니다.";
+"Numai tu poi pune 2 pietre ? r?boi.";
+
+"이 메틴석은 장비에 부착할 수 없습니다.";
+"Sunt pietre incluse.";
+
+"이 스킬은 아직 그랜드 마스터 수련을 할 경지에 이르지 않았습니다.";
+"Capacitatea a ajuns la rangul de Mare Maestru.";
+
+"이 스킬은 아직 책으로 수련할 경지에 이르지 않았습니다.";
+"Nu putei citi aceast?carte.";
+
+"이 스킬은 책으로 더이상 수련할 수 없습니다.";
+"Aceast?competen?nu are nevoie de o carte pentru a fi antrenat?";
+
+"이 아이템으로 소켓을 추가할 수 없는 아이템입니다.";
+"Nu putei citi aceast?carte.";
+
+"이 아이템은 PC방에서만 사용할 수 있습니다.";
+"Aceast?carte poate fi g?ita la niveluri sc?ute de Metin.";
+
+"이 아이템은 개량할 수 없습니다.";
+"Nu poi urca nivelul obiectului actual.";
+
+"이 아이템은 이 방식으로는 개량할 수 없습니다.";
+"Aceasta abilitate poate fi ?bun?沁it?;
+
+"이 아이템을 장착할 수 없습니다.";
+"Nu pot fi montate.";
+
+"이 액세서리에는 더이상 보석을 장착할 수 없습니다.";
+"Pergamentul exorciz?ii activat.";
+
+"이 액세서리에는 더이상 소켓을 추가할 공간이 없습니다.";
+"Nu mai exist?sloturi disponibile pe acest obiect.";
+
+"이 액세서리에는 더이상 장착할 소켓이 없습니다.";
+"? acest obiect nu exist?alte locuri pentru pietre.";
+
+"이 책으로는 더 이상 수련할 수 없습니다.";
+"Aceast?carte este prea greu de ?eles.";
+
+"이 책은 너무 어려워 이해하기가 힘듭니다.";
+"Competena este prea mic?pentru a fi ridicat?cu aceast?carte.";
+
+"이 책은 너무 어려워서 수련할 수 없습니다.";
+"Deja perfect familiarizat cu aceast?abilitate.";
+
+"이 책은 아무리 봐도 도움이 될 것 같지 않습니다.";
+"Nu mai poi urca aceast?competen?";
+
+"이 책을 읽으려면 레벨을 더 올려야 합니다.";
+"Trebuie s?ai consim??tul utilizatorului.";
+
+"이 행동은 상호동의 하에 가능 합니다.";
+"Partenerul t? nu i-a acceptat emoiile.";
+
+"이동 되어질 위치와 너무 가까워 귀환부를 사용할수 없습니다.";
+"Nu te poi teleporta ? acest loc.";
+
+"이동속도 %d";
+"Negotul a e?at.";
+
+"이동할 준비가 되어있음으로 귀환부를 사용할수 없습니다";
+"Te rog ?cearc?mai t?ziu.";
+
+"이래서야 공부가 안된다구.";
+"Te rog ?cearc?mai t?ziu.";
+
+"이미 꽂혀있던 미끼를 빼고 %s를 끼웁니다.";
+"Ai schimbat momeala.";
+
+"이미 둔갑중인 상태입니다.";
+"Suntei deja transformat.";
+
+"이미 선전포고 중인 길드입니다.";
+"Nu putei citi acum.";
+
+"이미 완벽하게 알아들을 수 있는 언어이다.";
+"Nu putei citi aceast?carte.";
+
+"이미 입후보되어있습니다";
+"R?boiul breslelor sa sf??t.";
+
+"이미 전쟁이 끝났습니다.";
+"Nu mai putei intra.";
+
+"이미 파티에 속해 있으므로 가입신청을 할 수 없습니다.";
+"Nu mai putei intra.";
+
+"이미 효과가 걸려 있습니다.";
+"Folose?i deja acest efect.";
+
+"이미투표를 했음";
+"Deja ai votat.";
+
+"이번에 잡은 물고기의 길이는 %.2fcm";
+"M?imea pe?elui %.2fcm";
+
+"이벤트용 감지기가 신비로운 빛을 내며 사라집니다.";
+"Pe?ele a disp?ut.";
+
+"이벤트용 감지기가 흔적도 없이 사라집니다.";
+"Obiectul a disp?ut.";
+
+"이성간에만 할 수 있습니다.";
+"Nu poi s?uta o persoan?de acela?sex.";
+
+"이제 좀 슬슬 가닥이 잡히는 것 같은데.";
+"?todeauna constant.";
+
+"이제 책의 마지막 장이야! 수련의 끝이 눈에 보이고 있어!";
+"Ultima pagin? Antrenamentul este aproape gata.";
+
+"인간류 몬스터 타격치 +%d%%";
+"Mon?rii se nasc %d%%";
+
+"인증번호가 틀렸습니다. 다시 시도하세요.";
+"Numarul introdus este gre?t. ?cearc?din nou.";
+
+"자객공격에 %d%% 저항";
+"Atacuri de rezisten?%d%%";
+
+"자객에게 강함 +%d%%";
+"Atacuri de rezisten?+%d%%";
+
+"자동으로 나가게됩니다.";
+"Toi vei fi teleportai ? primul ora? ";
+
+"자신을 선택하시면 밖으로 나갈 수 있는 <관람 종료> 버튼이 나옵니다.";
+"? cur?d vei p??i aceast?hart?";
+
+"자재가 부족하여 건설할 수 없습니다.";
+"Nu ai suficient material pentru a construi.";
+
+"잘못된 둔갑 아이템입니다.";
+"Nu poti cii aceast?carte.";
+
+"잘못된 선택을 했습니다";
+"este alegerea gre?t?";
+
+"잠시 후 OX 이벤트를 다시 시작하겠습니다.";
+"Cur?d evenimentul OX va fi restartat.";
+
+"잠시 후 마을로 이동되겠습니다.";
+"Cur?d vei fi teleportat ? ora?";
+
+"잠시후 모두 마을로 이동됩니다.";
+"Cur?d vei fi teleportat in ora?";
+
+"잠시후 해당 마을은  마을로 이동됩니다.";
+"ora?l a fost invadat";
+
+"장착에 성공하였습니다.";
+"Ad?gare reu?t?";
+
+"장착에 실패하였습니다.";
+"Ad?gare e?at?";
+
+"재료(%s)가 부족합니다.";
+"Materiale insuficiente (%s)";
+
+"저주 되돌리기 확률 %d%%";
+"%d%% probabilitate de blestem";
+
+"적합하지 않은 길드 이름 입니다.";
+"Acest nume nu poate fi folosit.";
+
+"전기 저항 %d%%";
+"Rezisten?%d%%";
+
+"전쟁 서버가 열려있지 않아 길드전을 시작할 수 없습니다.";
+"R?boiul dintre bresle aproape a ?ceput.";
+
+"전투가 시작 되어 취소 되었습니다.";
+"Delogarea a fost ?trerupt?";
+
+"정답은";
+"Rezultatul:";
+
+"정답입니다!";
+"Raspunsul t? a fost corect.";
+
+"정상적으로 투표를하였습니다.";
+"De obicei au un singur vot.";
+
+"정신력 회복 +%d";
+"Code02 +%d";
+
+"조개가 흔적도 없이 사라집니다.";
+"Ai deschis o scoica goal?";
+
+"조개에서 돌조각이 나왔습니다.";
+"Ai deschis o scoica.";
+
+"조개에서 백진주가 나왔습니다.";
+"Ai gasit o Perl?!";
+
+"조개에서 청진주가 나왔습니다.";
+"Ai gasit o Perl?!";
+
+"조개에서 피진주가 나왔습니다.";
+"Ai gasit o Perl?!";
+
+"존재하지 않는 건물입니다.";
+"Aici nu sunt construcii.";
+
+"존재하지 않는 아이템 입니다";
+"Aici nu sunt obiecte.";
+
+"존재하지 않는 캐릭터 입니다.";
+"Caracterul nu exis?";
+
+"좋아, 이 기세로 계속 나간다!";
+"F??oprire.";
+
+"좋았어! 조금만 더 읽으면 끝이다!";
+"Foarte bine! ?c?tot insist!";
+
+"주안술서를 통해 주화입마에서 빠져나왔습니다.";
+"Spiritul meu este pur ! Se pare ca am scapat de blestem.";
+
+"죽은 말에게 사료를 먹일 수 없습니다.";
+"Nu poi hr?i un cal mort.";
+
+"죽은 정보 %s deadcount %d Empire %d killcount %d(Purpose %d) killmobcount %d, RegenFlag %d";
+"Code0617 deadcount %d Empire %d killcount %d(Purpose %d) killmobcount %d?RegenFlag %d ";
+
+"죽지 않은 말에게 선초를 먹일 수 없습니다.";
+"Nu poi hr?i calul.";
+
+"지능 +%d";
+"Inteligen?+%d";
+
+"지능이 낮아 착용할 수 없습니다.";
+"Nu poi purta.";
+
+"직접 타격치 반사 확률 : %d%%";
+"Reflection attack: %d%%";
+
+"진노국";
+"Jinno";
+
+"참";
+"Really";
+
+"창고를 연후 %d초 이내에는 거래를 할수 없습니다.";
+"Nu poi depozita tot %d";
+
+"창고를 연후 %d초 이내에는 귀환부,귀환기억부를 사용할 수 없습니다.";
+"Nu poi folosi aceast?aptitudine ?c?.";
+
+"창고를 연후 %d초 이내에는 다른곳으로 이동할수 없습니다.";
+"Nu poi schimba.";
+
+"채광에 성공하였습니다.";
+"Explorare reu?t?";
+
+"채광에 실패하였습니다.";
+"Explorare e?at?";
+
+"채광을 중단하였습니다.";
+"Explorarea a luat sf??t.";
+
+"채팅 금지 상태입니다.";
+"?apta ti-a fost blocat?";
+
+"채팅 금지가 풀렸습니다.";
+"?apta ti-a fost blocat?";
+
+"책으로 더 높은 경지의 수련을 성공적으로 끝내셨습니다.";
+"Antrenamentul a fost ?cheiat cu succes. Felicit?i.";
+
+"책장도 이제 얼마 남지 않았군.";
+"Nu poti citi ?c?";
+
+"천조국";
+"Chunjo";
+
+"청소할 석이 박혀있지 않습니다.";
+"Spaiu nu este g?it.";
+
+"체력 +%d";
+"CResistance +%d";
+
+"체력이 낮아 착용할 수 없습니다.";
+"Nu poti s?l pori.";
+
+"총 퀴즈 수: %d";
+"Quiz %d";
+
+"최대 생명력 +%d";
+"Max HP: +%d";
+
+"최대 생명력 +%d%%";
+"Max HP: +%d";
+
+"최대 정신력 +%d";
+"Maximum strength +%d";
+
+"최대 정신력 +%d%%";
+"Maximum strength +%d%%";
+
+"최대 지구력 +%d";
+"Maximum strength +%d";
+
+"축복의 서와 현철을 합칠 수 있습니다.";
+"Blessing received";
+
+"출마를 할수가 없습니다";
+"Nu poi s?te deconectezi.";
+
+"취소 되었습니다.";
+"Delogarea a fost ?trerupt?";
+
+"캐릭터를 전환 합니다. 잠시만 기다리세요.";
+"Pentru a schimba caracterul trebuie s?a?epi c?eva momente.";
+
+"쿨타임 -%d";
+"Cooltime -%d";
+
+"퀘스트를 로드하는 중입니다. 잠시만 기다려 주십시오.";
+"Misiunile au fost ?c?cate. Te rog asteapt?";
+
+"크윽, 기가 역류하고 있어! 이거 설마 주화입마인가!? 젠장!";
+"Cartea nu a putut fi inv沁at?";
+
+"클라이언트 버전이 틀려 로그아웃 됩니다. 정상적으로 패치 후 접속하세요.";
+"Versiunea clientului t? nu este compatibil? Vei fi deconectat imediat.";
+
+"타격치 %d%% 를 생명력으로 흡수";
+"Schock %d%% HP wird verbraucht.";
+
+"타력치 %d%% 를 정신력으로 흡수";
+"Punch %d%% costs MP";
+
+"타제국 유저는 소환 할수 없습니다";
+"Juc?orii din alte regate nu pot fi invitai.";
+
+"타제국 유저에게는 이동할수 없습니다";
+"Nu poi schimba regatul.";
+
+"탄 상태에서는 할 수 없습니다.";
+"Nu poi face acest lucru ? regat.";
+
+"파티 중이 아닙니다.";
+"Grupa nu este activ?";
+
+"파티의 협동력이 높아져 지금부터 추가 경험치 보너스를 받습니다.";
+"Grupul t? coopereaz?a? c?a primit un bonus de experien?";
+
+"파티장이 접속 상태가 아니라서 요청을 할 수 없습니다.";
+"Nu pot fi luate ? considerare";
+
+"판매금액의 %d %% 가 세금으로 나가게됩니다";
+"V?zarea a fost %d%% impozitat?";
+
+"퍼펙트 마스터된 스킬입니다. 더 이상 수련 할 수 없습니다.";
+"Aceast?abilitate este cea mai mare ? etapa. Nu-i poi iranieni.";
+
+"평타 데미지 %d%%";
+"Critic: %d%%";
+
+"평타 데미지 저항 %d%%";
+"Critic Apare impotriva: %d%%";
+
+"플레이어 %d 와 플레이어  %d를 파혼시킵니다..";
+"Code03";
+
+"한손검 방어 %d%%";
+"Aparare cu sabia %d%%";
+
+"해당 유저는 %d 채널에 있습니다. (현재 채널 %d)";
+"Befindent utilizator din canalul %d (%d canalului curent)";
+
+"핸드폰 번호가 등록 되었습니다.";
+"Ati gresit numarul";
+
+"핸드폰 번호가 등록되어 있지 않습니다.";
+"Num?ul nu sunt incluse";
+
+"현재 %s 국고에는 %d 의 돈이 있습니다";
+"Bani %d";
+
+"현재 %s 국고에는 %lu 의 돈이 있습니다";
+"Banii necesari %lu";
+
+"현재 남은 참가자수 : %d";
+"Ceilali participani : %d";
+
+"현재 스코어 신수국:%d 천조국:%d 진노국:%d";
+"Puncte de curent din Shinsoo: %d Chunjo: %d Jinno: %d";
+
+"현재 온라인 상태 입니다. 귓말을 이용하세요.";
+"Acesta este activ ? prezent. Quiz capete.";
+
+"Nu este disponibil in aceast? loca?ie.";
+"Disponibil in prezent";
+
+? To?i "Participan?ii la evenimentul curent vor fi muta?i in sat.";
+"To?i participan?ii la eveniment vor fi teleporta?i in oras";
+
+?Breasla este in prezent in r?zboi”;
+"R?boi Breasl? se intimpl?;
+
+"Vopsirea ?i decolorarea nu sunt posibile cu coafurile actuale.";
+"Nu v? pute?i vopsi p?ul cu frizura.";
+
+"Rezisten?a la flac?r?% d %%";
+"Rezisten?? la foc %d%%";
+
+"Probabilitatea de a evita atacul de arc% d %%";
+"sageata rezistenta %d%%";
+
+"Rezisten?a la atac de arc% d %%";
+"Rezisten?? %d%%";
+
+"Trebuie s? citi?i mai multe% d c?r?i pentru a finaliza instruirea.";
+"Mai am de citit inca %d carti de competenta. Am citit cartea cu Succes.";
+
+"<Guild> V? rug?m s? utiliza?i dup? un timp";
+"<Breasl?> Va trebui s? asept ceva timp.";
+
+"Aceast? caracteristic? este disponibil? numai in castel.";
+"Utilizatorul nu a fost g?it.";
+
+"TEST: Toadul auriu a fost returnat in visterie.";
+"TEST : Yang Redus.";
+
+"TEST: Trezoreria curent?:% d";
+"TEST : Bani: %d";
+
+"TEST: Ca?ioapele aurii nu pot fi returnate in visterie.";
+"TEST : Trezoreria nu poate fi aruncat.";
+
+?Oportunit??ile de upgrade gratuite sunt disponibile numai pentru arme sub 20 de ani”;
+"Probabilitatea de ibun?t??ire a unei arme este mai mic? de 20%";
+
+"Nu pute?i utiliza acest articol pentru c? sunte?i f?r? rang.";
+"Nu pute?i purta a?a ceva.";
+
+"Nu pute?i utiliza acest articol, deoarece genul dvs. nu este corect.";
+"Acest element nu poate fi purtat de sexul dumneavoastr?";
+
+?Cum se folose?te: transfer <name>";
+"Caractere Teleport: <name> de transfer";
+
+?Numai un monarh poate folosi aceast? func?ie”;
+"Numai liderul poate folosi abilit??ile";
+
+"Al?i utilizatori Empire nu pot fi chema?i.";
+"Nu Puteti apela pe nimeni de la un alt taram.";
+
+"% s acceseaz? canalul% d. (canal curent:% d)";
+"%s pe %d la CH CH %d acceseaz? canalul pentru a trimite cererea de prietenie.";
+
+"A?i chemat% s.";
+"%s a fost numit.";
+
+"Nu exist? niciun utilizator cu numele introdus.";
+"Juc?orii cu numele";
+
+?Nu te po?i invoca.”;
+"Nu este capabil pentru a o invoca.";
+
+?Imbun?t??irea nu poate fi f?cut? in timp ce este deschis? o fereastr? de depozit sau tranzac?ie”;
+"Nu po?i face asa ceva cit timp ai magazia deschis? ";
+
+"Monarhul din% s a fost inlocuit cu% s.";
+"%s a fost %s inlocuit.";
+
+"B?t?lia este in derulare in jurul lui Beacon la% s.";
+"%s lupte in jurul farului si progresului";
+
+"% s a reu?it in Mercur.";
+"%s gestionate de apa;
+
+"De acum inainte,% s poate fi r?spl?tit distrugand baliza timp de 30 de minute.";
+"%s are 30 de minute pentru a Beacon la zerstoren.1";
+
+"30 de minute au trecut. Beacon-ul dispare.";
+"30 minute au trecut .. Fara a dispaea.";
+
+"Un far a ap?rut la% s, anun?and inceputul r?zboiului.";
+"%s marcheaz? aceputul r?boiului";
+
+"% s a distrus baliza.";
+"%s trebuie s?distruge?i toate Beacon.";
+
+"% s a e?uat Mercur ?i a pierdut r?zboiul.";
+"%s a pierdut razboiul";
+
+"% s a distrus toate balizele.";
+"%s a distrus toate luminile.";
+
+"Poate fi utilizat dup?% d in timpul aplic?rii timp rece";
+"Nu pot fi utilizate pentru %d";
+
+"Nivelul este mai mic decat limita nivelului elementului.";
+"Nivelul t?u este prea mic pentru a purta acest obiect.";
+
+?Probabilitatea ie?irii articolului”;
+"Snsa de a crea un obiect este: ";
+
+?Probabilitatea banilor”;
+"Snsa de a captura yang este: ";
+
+?Probabilitatea ob?inerii unui jackpot”;
+"Snsa de a captura yang dublu este: ";
+
+?M?rirea experien?ei”;
+"Rata de experient? este: ";
+
+?Imperiul”;
+"Anunt: ";
+
+"Nu pute?i citi o carte in timpul transform?rii.";
+"Nu poti citi o carte transformat.";
+
+?Trebuie s? v? dezechipa?i armura pentru a v? deschide magazinul personal.";
+"Da-ti jos armura inainte de a face magazin."; 
+
+?Nu po?i purta o hain? in c?rbune.”;
+"Cutitul nu este permis in timpul unei nunti.";
+
+"Fereastra de fabrica?ie este deja deschis?.";
+"Deschide fereastra de fabrica?ie";
+
+?Materiale de fabrica?ie insuficiente”;
+"Nu ai materialele necesare.";
+
+?Fereastra de fabrica?ie nu este deschis?”;
+"Nu deschideti";
+
+"<Breasla Nu aveti permisiunea de a exclude membri din breasla";
+"<Breasla Nu aveti permisiunea de a exclude membri din breasla";
+
+"<Breasla Liderul breslei nu este online.";
+"<Breasla Liderul breslei nu este online.";
+
+"Emotia nu poate fi utilizata in timp ce cresteti.";
+"Emotia nu poate fi utilizata in timp ce cresteti.";
+
+"Nu poti face asa ceva cat timp ce cresteti.";
+"Nu poti face asa ceva cat timp ce cresteti.";
+
+"Ai renuntat la cativa yang.";
+"Ai renuntat la cativa yang.";
+
+"<Depozit> Nu poti pune acest obiect in depozit.";
+"<Depozit> Nu poti pune acest obiect in depozit.";
+
+"Nu se poate folosi un pergament ? acest loc.";
+"Nu se poate folosi un pergament ? acest loc.";
+
+"<Breasla % puncte de experienta donate.";
+"<Breasla % puncte de experienta donate.";
+
+"Ai adagat bonusul special cu succes.";
+"Ai adagat bonusul special cu succes.";
+
+"Poti sa-te dai jos de pe acest mount apasad ctrl + g !";
+"Poti sa-te dai jos de pe acest mount apasad ctrl + g !";
+
+"Nu te poti transforma cat timp cresteti.";
+"Nu te poti transforma cat timp cresteti.";
+
+"%d minute ? %d secunde rsase.";
+"%d minute ? %d secunde rsase.";
+
+"Nu poti face as ceva.";
+"Nu poti face as ceva.";
+
+"<Breasla Nu se mai poate dona experiena? ";
+"<Breasla Nu se mai poate dona experiena? ";
+
+"%d secunde ramase.";
+"%d secunde ramase.";
+
+"%d ore ? %d minute ramase.";
+"%d ore ? %d minute ramase.";
+
+"Gradul tau este prea mare.";
+"Gradul tau este prea mare.";
+
+"Obiectul nu are nici o piatr?adaugat?";
+"Obiectul nu are nici o piatr?adaugat?";
+
+"Ai nevoie de %s.";
+"Ai nevoie de %s.";
+
+"Nu poti cumpara din magazinul tau offline.";
+"Nu poti cumpara din magazinul tau offline.";
+
+"Suma de Yang a fost retrasa.";
+"Suma de Yang a fost retrasa.";
+
+"";
+"";
+
+"<Magazin offline> Magazinul tau offline expira peste %d ora/ore";
+"<Magazin offline> Magazinul tau offline expira peste %d ora/ore";
+
+"Envanter kilitli fisilti";
+"Nu poti trimite mesaje deoarece parola la inventar este activa.";
+
+"Envanter kilitli ticaret";
+"Nu poti sa negociezi deoarece parola la inventar este activa.";
+
+"Envanter kilitli efsun";
+"Inventarul este blocat.";
+
+"Envanter kilitli arti";
+"Nu poti sa faci upgrade la un item deoarece parola la inventar este activa.";
+
+"Envanter kilitli pazar ac";
+"Nu poti deschide un magazin deoarece parola la inventar este activa.";
+
+"Envanter kilitli satin";
+"Nu poti cumpara un item deoarece parola la inventar este activa.";
+
+"Envanter kilitli item at";
+"Nu poti sa arunci un item deoarece parola la inventar este activa.";
+
+"Envanter kilitli altin at";
+"Nu poti arunca bani deoarece parola la inventar este activa.";
+
+"Envanteriniz Kilitlendi.";
+"Parola la inventar a fost dezactivata.";
+
+"Envanterinizin Kilidi Acildi.";
+"Parola la inventar a fost activata.";
+
+"Nu poti face asta.";
+"Nu poti face asta.";
+
+"Nu poti face asta cand ai un animal de companie chemat.";
+"Nu poti face asta cand ai un animal de companie chemat.";
+
+"DSS_YUKSELTME_BASARILI";
+"DSS_YUKSELTME_BASARILI";
+
+"DSS_YUKSELTME_BASARISIZ";
+"DSS_YUKSELTME_BASARISIZ";
+
+"<Magazin offline> Magazinul tau offline expira peste %d ora/ore";
+"<Magazin offline> Magazinul tau offline expira peste %d ora/ore";
+
+"Nu poti echipa skin-ul deoarece ai o arma diferita pentru acest skin.";
+"Nu poti echipa skin-ul deoarece ai o arma diferita pentru acest skin.";
+
+"Pentru a face asta dezechipeaza skin-ul.";
+"Pentru a face asta dezechipeaza skin-ul.";
+
+"Success.";
+"Success.";
+
+"Nu poti adauga itemele blocate.";
+"Nu poti adauga itemele blocate.";
+
+"Poti combina esarfele doar de acelasi grad.";
+"Poti combina esarfele doar de acelasi grad.";
+
+"Am esuat.";
+"Am esuat.";
+
+"Nu poti face asta.";
+"Nu poti face asta.";
+
+"Pune itemele in fereastra.";
+"Pune itemele in fereastra.";
+
+"Nu ai materialele necesare";
+"Nu ai materialele necesare";
+
+"<Magazin offline> Timpul magazinului tau offline este setat ca fiind nelimitat!";
+"<Magazin offline> Timpul magazinului tau offline este setat ca fiind nelimitat!";
+
+"Ai primit %s din magazinul tau offline.";
+"Ai primit %s din magazinul tau offline.";
+
+"Nu iti poti evolua insotitorul!";
+"Nu iti poti evolua insotitorul!";
+
+"Operatiune realizata cu succes";
+"Operatiune realizata cu succes";
+
+"Nu poti face asta.";
+"Nu poti face asta.";
+
+"Nu poti face asta.";
+"Nu poti face asta.";
+
+"Nu poti face asta.";
+"Nu poti face asta.";
+
+"%s? %s? %d%% ??????!";
+"%s? %s? %d%% ??????!";
+
+"???";
+"???";
+
+"?? ?? ??";
+"?? ?? ??";
+
+"???? ?? ??";
+"???? ?? ??";
+
+"Nu poti echipa acest item de doua ori!";
+"Nu poti echipa acest item de doua ori!";
+
+"Punctele de experienta au fost blocate";
+"Punctele de experienta au fost blocate";
+
+"Operatiune realizata cu succes";
+"Operatiune realizata cu succes";
+
+"Nu poti face asta.";
+"Nu poti face asta.";
+
+"Nu poti deschide magazinul daca ai un insotitor chemat.";
+"Nu poti deschide magazinul daca ai un insotitor chemat.";
+
+"Nu ai seturi de carti.";
+"Nu ai seturi de carti.";
+
+"De acum primesti experienta";
+"De acum primesti experienta";
+
+"exp kazanimi ac";
+"exp kazanimi ac";
+
+"Punctele de experienta au fost blocate";
+"Punctele de experienta au fost blocate";
+
+"Ai recuperat experienta";
+"Ai recuperat experienta";
+
+"Am esuat.";
+"Am esuat.";
+
+"Success.";
+"Success.";
+
+"Nu poti face asta.";
+"Nu poti face asta.";
+
+"Pentru a face asta, trimite animalul de companie.";
+"Pentru a face asta, trimite animalul de companie.";
+
+"Nu poti face asta cand ai un animal de companie chemat.";
+"Nu poti face asta cand ai un animal de companie chemat.";
+
+"Nu poti activa Aura Sabiei fara o arma echipata.";
+"Nu poti activa Aura Sabiei fara o arma echipata.";
+
+"Nu iti poti evolua insotitorul!";
+"Nu iti poti evolua insotitorul!";
+
+"Operatiune realizata cu succes";
+"Operatiune realizata cu succes";
+
+"Serverul este momentan in mentenanta, doar persoanele autorizate pot intra!";
+"Serverul este momentan in mentenanta, doar persoanele autorizate pot intra!";
+
+"O sa fi deconectat automat in 10(s) secunde.";
+"O sa fi deconectat automat in 10(s) secunde.";
+
+"Mai intai mergi la Alchimist";
+"Mai intai mergi la Alchimist";
+
+"Nu poti utiliza un magazin deoarece inventarul este blocat.";
+"Nu poti utiliza un magazin deoarece inventarul este blocat.";
+
+"Parola la inventar a fost dezactivata."
+"Parola la inventar a fost dezactivata."
+
+"De acum poti negocia/arunca/sterge/sa pui pe tine iteme/sa folosesti magazinele.";
+"De acum poti negocia/arunca/sterge/sa pui pe tine iteme/sa folosesti magazinele.";
+
+"Nu poti activa Aura Sabiei fara o arma echipata.";
+"Nu poti activa Aura Sabiei fara o arma echipata.";
+
+"Nu poti face asta.";
+"Nu poti face asta.";
+
+"Punctele de experienta au fost blocate";
+"Punctele de experienta au fost blocate";
+
+"Nu poti face asta.";
+"Nu poti face asta.";
+
+"Operatiune realizata cu succes";
+"Operatiune realizata cu succes";
+
+"Imi pare rau, am esuat";
+"Imi pare rau, am esuat";
